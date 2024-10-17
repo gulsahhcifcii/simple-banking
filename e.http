@@ -1,0 +1,6 @@
+POST http://localhost:8080/account/v1/credit/17892
+Content-Type: application/json
+
+{
+  "amount": 1000.0
+}
